@@ -30,3 +30,5 @@ Exemplo:
 <code>
 {"value": "4449050.55"}
 </code>
+
+Onde <i>value</i>, é expresso em metros.
